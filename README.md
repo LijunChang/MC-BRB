@@ -17,7 +17,7 @@ It generates an executable "MC-BRB".
 
 Different algorithms can be invoked by executing "MC-BRB".
 ```sh
-./MC-BRB {alg} {graph_directory}
+$ ./MC-BRB {alg} {graph_directory}
 ```
 alg is chosen from "MC-DD, MC-EGO, MC-BRB, verify"
 
