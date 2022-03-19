@@ -20,7 +20,7 @@
 #define _RECOLOR_
 //#define _BRACH_ON_COLOR_
 
-//#define NDEBUG
+#define NDEBUG
 #include <cassert>
 
 #ifdef _BITSET_
