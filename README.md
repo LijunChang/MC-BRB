@@ -1,3 +1,5 @@
+# MC-BRB: Maximum Clique Computation
+
 This repository implements maximum clique computation algorithms proposed in our KDD 2019 paper. If you are using the code, please cite our paper.
 <pre>
 Lijun Chang.
